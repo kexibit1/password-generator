@@ -1,0 +1,17 @@
+
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 50px;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+input[type=text] {
+    width: 1000px;
+    text-align: center;
+    font-size: 50px;
+}
